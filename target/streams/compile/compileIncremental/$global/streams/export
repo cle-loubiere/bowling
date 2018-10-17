@@ -1,0 +1,1 @@
+scalac -classpath /home/clem/Documents/bowling/kata_bowling_scala/target/scala-2.12/classes -bootclasspath /home/clem/.sbt/boot/scala-2.12.4/lib/scala-library.jar /home/clem/Documents/bowling/kata_bowling_scala/src/main/scala/bowling/Frame.scala

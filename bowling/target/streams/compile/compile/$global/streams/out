@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/clem/Documents/bowling/kata_bowling_scala/src/main/scala/bowling/Game.scala:16:37: value isSpare is not a member of bowling.Frame[0m
+[0m[[0m[31merror[0m] [0m[0m            if (frames(actualFrame).isSpare) getEachFrameScore(actualFrame + 1, intermediateScore + frameScore, 1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
